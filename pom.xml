@@ -26,8 +26,8 @@
     </scm>
     <distributionManagement>
         <repository>
-            <id>bintray-leangen</id>
-            <url>https://api.bintray.com/maven/leangen/maven/graphql-spqr-spring-boot-starter/</url>
+            <id>nexus</id>
+            <url>http://nexus.ace-mc-bohol.com/repository/graystem-snapshot/</url>
         </repository>
     </distributionManagement>
     <issueManagement>
